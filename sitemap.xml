@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://newinh.me/posts/</loc>
+    <lastmod>2019-05-03T05:17:36+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://newinh.me/</loc>
+    <lastmod>2019-05-03T05:17:36+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://newinh.me/posts/third-post/</loc>
+    <lastmod>2019-05-03T05:17:36+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://newinh.me/posts/second-post/</loc>
+    <lastmod>2019-05-03T04:52:55+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://newinh.me/posts/my-first-post/</loc>
+    <lastmod>2019-05-03T03:56:18+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://newinh.me/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://newinh.me/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
