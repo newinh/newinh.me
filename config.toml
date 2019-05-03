@@ -1,3 +1,35 @@
-baseURL = "http://example.org/"
+baseURL = "https://newinh.me"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "SeungHoon Shin"
+theme = "awesome-identity"
+# Enable Emoji emoticons support for page content
+enableEmoji = true
+
+## Profile Configurations
+[params.profile]
+  portrait = "/images/portrait-default.png"
+  firstname = "John"
+  lastname = "Smith"
+  title = "VP of Engineering / Godfather"
+  bio = """John Smith brings over 40 years experience leading, contributing to, and growing engineering organizations in top [**VR**](https://en.wikipedia.org/wiki/Virtual_reality) technology companies.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et lacinia metus. Aliquam venenatis, orci ornare mollis congue, mi arcu lobortis tellus, id pulvinar ex ante eu mauris.
+  Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.
+  """
+
+## Contacts Configurations
+[params.contacts]
+  email = "john.smith@example.com"
+  github = "john.smith"
+  twitter = "john.smith"
+  facebook = "john.smith"
+  linkedin = "john.smith"
+  instagram = "john.smith"
+  stackoverflow = "7919458"
+  keybase = "john.smith"
+  medium = "john.smith"
+
+
+## Footer Configurations
+[params.footer]
+  copyright = "© 2019 Byungjin Park. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)."
+  poweredBy = true
