@@ -1,3 +1,6 @@
 [submodule "themes/awesome-identity"]
 	path = themes/awesome-identity
 	url = https://github.com/posquit0/hugo-awesome-identity
+[submodule "awesome-cv"]
+	path = awesome-cv
+	url = https://github.com/newinh/Awesome-CV.git
