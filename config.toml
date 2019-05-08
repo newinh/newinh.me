@@ -28,6 +28,7 @@ enableEmoji = true
   name = "Resume"
   url = "files/resume.pdf"
 
+
 ## Footer Configurations
 [params.footer]
   copyright = "© 2019 Seunghoon Shin. [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)."
