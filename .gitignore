@@ -44,3 +44,6 @@ Temporary Items
 .apdisk
 
 # End of https://www.gitignore.io/api/hugo,macos
+
+## VS Code
+.vscode/settings.json
